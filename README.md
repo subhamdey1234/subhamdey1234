@@ -1,5 +1,5 @@
 <div style="border-radius: 50%;" align="center">
-   <img  height="150" src="https://media.licdn.com/dms/image/v2/D5635AQFrHEH-43dyXQ/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1693855389228?e=1729015200&v=beta&t=D81a3P4f3rYIqxKE-yo3pIDoWOP2JWjhE2EsLMXCE-s"  />
+   <img  height="150" src="https://th.bing.com/th/id/OIP.NzbhlJqpVy6v0hIY5ExkCAHaEH?rs=1&pid=ImgDetMain"  />
 </div>
 
 ###
