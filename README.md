@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Express.Js**
 
-- 👨‍💻 All of my projects are available at [https://kaleidoscopic-semolina-79c190.netlify.app/](https://kaleidoscopic-semolina-79c190.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://dulcet-haupia-969353.netlify.app/](https://dulcet-haupia-969353.netlify.app/)
 
 - 💬 Ask me about **javascript,react and node js**
 
