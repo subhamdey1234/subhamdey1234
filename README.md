@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **Chatting Application**
 
-- 🌱 I’m currently learning **MongoDb**
+- 🌱 I’m currently learning **MongoDb/Nosql Databases**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-professional.netlify.app/](https://portfolio-professional.netlify.app/)
 
