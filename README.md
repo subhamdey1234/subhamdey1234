@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGN0dDlod3Fpcnp6NDg4M3JnZzh5a3M5MHI0a245NjNxcHJqNHJ5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="100"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Subham Dey</h1>
