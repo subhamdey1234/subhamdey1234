@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://x.com/subham_deyOP?t=4FlGmUMwBXk2MhdOjugVTg&s=08" target="blank"><img src="https://img.shields.io/twitter/follow/Subham Dey?logo=twitter&style=for-the-badge" alt="Subham-Dey" /></a> </p>
 
-- 🔭 I’m currently working on **Chatting Application**
+- 🔭 I’m currently working on **Chatting App**
 
 - 🌱 I’m currently learning **MongoDb/Nosql Databases**
 
