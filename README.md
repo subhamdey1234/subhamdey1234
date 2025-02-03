@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-professional.netlify.app/](https://portfolio-professional.netlify.app/)
 
-- 💬 Ask me about **javascript,react and node js**
+- 💬 Ask me about **javascript,react, expressjs,MongoDb and node js**
 
 - 📫 How to reach me **sdey06384@gmail.com**
 
